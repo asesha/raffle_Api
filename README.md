@@ -1,2 +1,2 @@
-# raffle_application
-Raffle Application
+# raffle-api
+Raffle

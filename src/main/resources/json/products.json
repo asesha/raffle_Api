@@ -1,0 +1,123 @@
+[
+    {
+        "productName": "Benz Car",
+        "productDescription": "Benz Car",
+        "productCategory": "Cars",
+        "productImage": "Benz Car",
+        "productVideo": "Benz Car",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "BMW Car",
+        "productDescription": "BMW Car",
+        "productCategory": "Bike",
+        "productImage": "BMW Car",
+        "productVideo": "BMW Car",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "Audi Car",
+        "productDescription": "Audi Car",
+        "productCategory": "Cars",
+        "productImage": "Audi Car",
+        "productVideo": "Audi Car",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "Adidas Shoe",
+        "productDescription": "Adidas Shoe",
+        "productCategory": "Sporting Goods",
+        "productImage": "Adidas Shoe",
+        "productVideo": "Adidas Shoe",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "Nike Shoe",
+        "productDescription": "Nike Shoe",
+        "productCategory": "Sporting Goods",
+        "productImage": "Nike Shoe",
+        "productVideo": "Nike Shoe",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "Ninety Cycle",
+        "productDescription": "Ninety Cycle",
+        "productCategory": "Sporting Goods",
+        "productImage": "Ninety Cycle",
+        "productVideo": "Ninety Cycle",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "Hercules Cycle",
+        "productDescription": "Hercules Cycle",
+        "productCategory": "Sporting Goods",
+        "productImage": "Hercules Cycle",
+        "productVideo": "Hercules Cycle",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "RTFKT",
+        "productDescription": "RTFKT",
+        "productCategory": "NFT",
+        "productImage": "RTFKT",
+        "productVideo": "RTFKT",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "Damien Hirst",
+        "productDescription": "Damien Hirst",
+        "productCategory": "NFT",
+        "productImage": "Damien Hirst",
+        "productVideo": "Damien Hirst",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "Bike",
+        "productDescription": "Bike",
+        "productCategory": "Bike",
+        "productImage": "Bike",
+        "productVideo": "Bike",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "productName": "Laptop",
+        "productDescription": "Laptop",
+        "productCategory": "Computer",
+        "productImage": "Laptop",
+        "productVideo": "Laptop",
+        "createdOn": "2023-01-26",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-01-26",
+        "updatedBy": "ADMIN"
+    }
+]

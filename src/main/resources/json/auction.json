@@ -1,0 +1,56 @@
+ {
+    "auctionName": "FEB",
+    "prizeCount": 8,
+    "startDate": "22-02-2023",
+    "startTime": "10:30:00",
+    "endDate": "27-02-2023",
+    "endTime": "10:30:00",
+    "drawingDate": "28-02-2023",
+    "drawingTime": "10:30:00",
+    "minTickets": 5,
+    "maxTickets": 20,
+    "createdBy": "ADMIN",
+    "updatedBy": "ADMIN",
+    "prizes": [
+        {
+            "productId":1,
+            "prizePosition": 1,
+            "prizeIndex": 1
+        },
+        {
+            "productId":1,
+            "prizePosition": 1,
+            "prizeIndex": 2
+        },
+        {
+            "productId":2,
+            "prizePosition": 2,
+            "prizeIndex": 3
+        },
+        {
+            "productId":2,
+            "prizePosition": 2,
+            "prizeIndex": 4
+        },
+        {
+            "productId":2,
+            "prizePosition": 2,
+            "prizeIndex": 5
+        },
+        {
+            "productId":3,
+            "prizePosition": 3,
+            "prizeIndex": 6
+        },
+        {
+            "productId":3,
+            "prizePosition": 3,
+            "prizeIndex": 7
+        },
+        {
+            "productId":3,
+            "prizePosition": 3,
+            "prizeIndex": 8
+        }
+    ]
+}

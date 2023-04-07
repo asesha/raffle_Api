@@ -1,0 +1,29 @@
+<html xmlns:th="http://www.thymeleaf.org">
+  <head>
+    <style type="text/css">
+      body, p, div {
+        font-family: Helvetica, Arial, sans-serif;
+        font-size: 14px;
+      }
+      a {
+        text-decoration: none;
+      }
+    </style>
+    <title></title>
+  </head>
+  <body>
+    <p>
+      Dear <span th:text="${userName}" />, <br/>	
+      Thank you. Your order has been received<br/><br/>
+      
+      Order Details<br/><br/>
+      
+      Ticket Numbers<br/><br/>
+      <span th:text="${ticketNumbers}" />
+
+    </p><p><br/></p>
+	<p>
+      Regards,<br/>ALKIMI
+    </p>
+  </body>
+</html>

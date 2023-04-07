@@ -1,0 +1,68 @@
+[
+    {
+        "userName": "THOMOS",
+        "walletId": 456,
+        "email": "thomos@gmail.com",
+        "phone": "91-33324244",
+        "address": "77,KAMARAJ Streat",
+        "createdOn": "2023-02-17",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-02-17",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "userName": "JOHN",
+        "walletId": 123,
+        "email": "john@gmail.com",
+        "phone": "91-3331212",
+        "address": "12,VOC Streat",
+        "createdOn": "2023-02-17",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-02-17",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "userName": "NEWTON",
+        "walletId": 776,
+        "email": "newton@gmail.com",
+        "phone": "91-33324233",
+        "address": "66,KATKAN Streat",
+        "createdOn": "2023-02-17",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-02-17",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "userName": "SMITH",
+        "walletId": 766,
+        "email": "smith@gmail.com",
+        "phone": "91-33324222",
+        "address": "22,KATTABOMMAN Streat",
+        "createdOn": "2023-02-17",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-02-17",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "userName": "PAUL",
+        "walletId": 556,
+        "email": "paul@gmail.com",
+        "phone": "91-33324111",
+        "address": "10,THERASA Streat",
+        "createdOn": "2023-02-17",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-02-17",
+        "updatedBy": "ADMIN"
+    },
+    {
+        "userName": "STEPHEN",
+        "walletId": 333,
+        "email": "stephen@gmail.com",
+        "phone": "91-33324000",
+        "address": "20,BHARATHIYAR Streat",
+        "createdOn": "2023-02-17",
+        "createdBy": "ADMIN",
+        "updatedOn": "2023-02-17",
+        "updatedBy": "ADMIN"
+    }
+]

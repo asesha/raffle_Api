@@ -1,0 +1,29 @@
+version: '3'
+services:
+  mysql-db:
+    image: mysql
+    volumes:
+      - db_data:/var/lib/app
+    restart: always
+    networks:
+      - raffle-mysql
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_DATABASE: RAFFLE
+      MYSQL_ROOT_PASSWORD: root
+  raffle-api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: "unless-stopped"
+    networks:
+      - raffle-mysql
+    ports:
+      - "9000:9000"
+    depends_on:
+      - "mysql-db"
+volumes:
+  db_data:
+networks:
+  raffle-mysql:
